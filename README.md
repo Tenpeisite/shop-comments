@@ -31,7 +31,7 @@ mvn clean install
 ~~~
 运行项目：
 ~~~shell
-java -jar target/hm-dianping-0.0.1-SNAPSHOT.jar
+java -jar target/xxx.jar
 ~~~
 ---
 ## 注意事项
